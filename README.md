@@ -2,8 +2,10 @@
 Hey,
 
 Im SoulThread2597. Im the founder of Cursed Flame Inc. Im a programmer who works mainly with c# and python.
-  
-  
+
+<p align="center">I will be <b>18 years old</b> in<br>
+<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img?prettyLeft&birthUnix=1164733200000&untilAge=18"></img></p><br>
+
 Projects:
 ===================
 Cosmo
