@@ -10,7 +10,7 @@
 
 
   <p align="center">
-  <img src="https://i.imgur.com/brlqkH6.png"
+  <img src="https://i.imgur.com/CdSTo8z.png"
        </p>
 <h4 align="center">
   Hello! My name is SoulThread and I am a Python developer! I am also the founder of Cursed Flame Inc! If you need to contact me, you may do so via discord under <a href="mailto:soulthread@example.com">@soulthread</a> or through one of my socials.
