@@ -10,10 +10,10 @@
 
 
   <p align="center">
-  <img src="https://i.imgur.com/1hmGKeN.png"
+  <img src="https://i.imgur.com/brlqkH6.png"
        </p>
 <h4 align="center">
-  Hello! My name is SoulThread and I am a Python and C# developer! I am also the founder of Cursed Flame Inc! Cursed Flame Inc. has created projects like Cosmo, an AI assistant focused on helping out with everyday tasks. If you need to contact me, you may do so via e-mail at <a href="mailto:soulthread@example.com">soulthread@example.com</a> or through one of my socials.
+  Hello! My name is SoulThread and I am a Python developer! I am also the founder of Cursed Flame Inc! If you need to contact me, you may do so via discord under <a href="mailto:soulthread@example.com">@soulthread</a> or through one of my socials.
 </h4>
 
 ---
@@ -39,8 +39,7 @@ class SoulThread:
     self.pronouns = ["he", "him"]
     self.age = 16
     self.discord = "@soulthread"
-    self.email = "soulthread@example.org"
-    self.programmingLangs = ["Python", "C#"]
+    self.programmingLangs = ["Python"]
 
 me = SoulThread()
 ```
