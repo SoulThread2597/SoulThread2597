@@ -13,7 +13,7 @@
   <img src="https://i.imgur.com/CdSTo8z.png"
        </p>
 <h4 align="center">
-  Hello! My name is SoulThread and I am a Python developer! I am also the founder of Cursed Flame Inc! If you need to contact me, you may do so via discord under <a href="mailto:soulthread@example.com">@soulthread</a> or through one of my socials.
+  Hello! My name is SoulThread and I am a Python developer! I am also the founder of Cursed Flame Inc! Im currently working on an Ai assistant named Nova. If you need to contact me, you may do so via discord under <a href="mailto:soulthread@example.com">@soulthread</a> or through one of my socials.
 </h4>
 
 ---
@@ -39,7 +39,7 @@ class SoulThread:
     self.pronouns = ["he", "him"]
     self.age = 16
     self.discord = "@soulthread"
-    self.programmingLangs = ["Python"]
+    self.programmingLangs = ["python"]
 
 me = SoulThread()
 ```
