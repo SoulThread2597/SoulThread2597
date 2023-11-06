@@ -23,12 +23,12 @@
 <p align="center"><b>Some real-time information about me!</b></p>
 <br/>
 <p align="center">When you clicked my profile, I was<br>
-<img title="My age in exact years" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?years&birthUnix=1164733200000"></img><br>
+<img title="My age in exact years" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?years&birthUnix=1164733200000"></img><br>
    years old</p>
   <p align="center">My next birthday is in<br>
-<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft&birthUnix=1164733200000"></img></p><br>
+<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&birthUnix=1164733200000"></img></p><br>
   <p align="center">I will be <b>18 years old</b> in<br>
-<img title="My next birthday" alt="It broke. Refresh your page." src="https://api.inimicalpart.com/v1/img.png?prettyLeft&untilAge=18&birthUnix=1164733200000"></img></p><br>
+<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18&birthUnix=1164733200000"></img></p><br>
 
 <!-- Credit to InimicalPart for this system -->
 <p align="center"><sub><i>Created by <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a></i></sub></p>
