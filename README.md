@@ -40,7 +40,7 @@ class SoulThread:
   def __init__(self):
     self.username = "SoulThread"
     self.pronouns = ["he", "him"]
-    self.age = 16
+    self.age = 17
     self.discord = "@soulthread"
     self.programmingLangs = ["python"]
 
