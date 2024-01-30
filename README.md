@@ -25,8 +25,8 @@
 <p align="center">When you clicked my profile, I was<br>
 <img title="My age in exact years" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?years&birthUnix=1164733200000"></img><br>
    years old</p>
-  <p align="center">My next birthday is in<br>
-<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&birthUnix=1164733200000"></img></p><br>
+<!--  <p align="center">My next birthday is in<br>
+<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&birthUnix=1164733200000"></img></p><br>-->
   <p align="center">I will be <b>18 years old</b> in<br>
 <img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img.png?prettyLeft&untilAge=18&birthUnix=1164733200000"></img></p><br>
 
