@@ -12,9 +12,9 @@
 <h4 align="center">
   Hello! My name is SoulThread and I am a Python developer! I am also the founder of Cursed Flame Inc! 
 </h4>
-<h4 align="center">
+<!--<h4 align="center">
   Im currently working on an Ai assistant with <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a> named Nova.
-</h4>
+</h4> -->
 <h4 align="center">
   If you need to contact me, you may do so via discord under <a href="mailto:soulthread@example.com">@soulthread</a> or through one of my socials.
 </h4>
