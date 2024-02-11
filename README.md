@@ -16,7 +16,7 @@
   Im currently working on an Ai assistant with <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a> named Nova.
 </h4> -->
 <h4 align="center">
-  If you need to contact me, you may do so via discord under <a href="mailto:soulthread2597@gmail.com">@soulthread</a> or through one of my socials.
+  If you need to contact me, you may do so via discord under <a href="https://github.com/SoulThread2597">@soulthread</a> or through one of my socials.
 </h4>
 
 ---
