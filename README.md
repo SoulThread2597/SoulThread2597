@@ -47,10 +47,6 @@ class SoulThread:
 me = SoulThread()
 ```
 
-
-<!-------------------------------->
-<!-- This isn't working, fix it -->
-<!-------------------------------->
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=soulthread2597&show_icons=true&theme=midnight-purple)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soulthread2597&show_icons=true&theme=midnight-purple")
+</div>
