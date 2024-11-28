@@ -27,8 +27,8 @@
    years old</p>
 <!--  <p align="center">My next birthday is in<br>
 <img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img?prettyLeft&birthUnix=1164733200000&font-size=35"></img></p><br>-->
-  <p align="center">I will be <b>18 years old</b> in<br>
-<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img?prettyLeft&untilAge=18&birthUnix=1164733200000&font-size=35"></img></p><br>
+  <p align="center">My next birthday is in<br>
+<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img?prettyLeft&birthUnix=1164733200000&font-size=35"></img></p><br>
 
 <!-- Credit to InimicalPart for this system -->
 <p align="center"><sub><i>Created by <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a></i></sub></p>
@@ -40,7 +40,7 @@ class SoulThread:
   def __init__(self):
     self.username = "SoulThread"
     self.pronouns = ["he", "him"]
-    self.age = 17
+    self.age = 18
     self.discord = "@soulthread"
     self.programmingLangs = ["python"]
 
