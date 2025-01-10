@@ -21,7 +21,7 @@
 <div align="center">
 
   [![discord](https://img.shields.io/badge/-%40SoulThread-121212?style=for-the-badge&logo=Discord&logoColor=ffffff)](#)
-  [![linktree](https://img.shields.io/badge/-%40SoulThread-121212?style=for-the-badge&logo=linktree&logoColor=ffffff)](https://linktr.ee/soulthread)
+  [![Biosites](https://img.shields.io/badge/-Socials-121212?style=for-the-badge&logo=&logoColor=ffffff)](https://bio.site/soulthread)
 </div>
 
 ---
