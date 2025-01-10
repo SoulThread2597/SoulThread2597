@@ -10,6 +10,7 @@
 </p>
 
 ##
+
 <!--<h4 align="center">
   Im currently working on an Ai assistant with <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a> named Nova.
 </h4> -->
@@ -37,14 +38,14 @@
 ##
 
 ```python
-    class SoulThread:
-    def __init__(self):
-        self.username = "SoulThread"
-        self.pronouns = ["he", "him"]
-        self.age = 18
-        self.discord = "@soulthread"
+class SoulThread:
+  def __init__(self):
+    self.username = "SoulThread"
+    self.pronouns = ["he", "him"]
+    self.age = 18
+    self.discord = "@soulthread"
 
-    me = SoulThread()
+me = SoulThread()
 ```
 
 <div align="center">
