@@ -20,6 +20,7 @@
 </h4>
 <div align="center">
 
+  [![Email](https://img.shields.io/badge/-contact@soulthread.dev-121212?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:contact@soulthread.dev)
   [![discord](https://img.shields.io/badge/-%40SoulThread-121212?style=for-the-badge&logo=Discord&logoColor=ffffff)](#)
   [![Biosites](https://img.shields.io/badge/-Socials-121212?style=for-the-badge&logo=&logoColor=ffffff)](https://bio.site/soulthread)
 </div>
