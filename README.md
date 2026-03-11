@@ -27,17 +27,6 @@
 
 ---
 
-<p align="center">When you clicked my profile, I was<br>
-<img title="My age in exact years" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img?years&birthUnix=1164733200000&font-size=35"></img><br>
-   years old</p>
-  <p align="center">My next birthday is in<br>
-<img title="My next birthday" alt="The creator broke something, please try later." src="https://api.inimicalpart.com/v1/age/img?prettyLeft&birthUnix=1164733200000&font-size=35"></img></p><br>
-
-<!-- Credit to InimicalPart for this system -->
-<p align="center"><sub><i>Created by <a href="https://github.com/InimicalPart"><b>@InimicalPart</b></a></i></sub></p>
-
-##
-
 ```python
 class SoulThread:
   def __init__(self):
